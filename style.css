@@ -1,0 +1,54 @@
+a{font-family: "Bebas Neue", sans-serif;}
+ .carousel-item img{
+   width: 100%;
+   height: 90vh;
+   object-fit: cover;
+ }
+ .carousel-caption{
+   font-family: "Protest Riot", sans-serif;
+ }
+ .row p{
+  font-family: "Sevillana", cursive;
+  font-size: 30px;
+ }
+ .accordion-item{
+  font-family: "Protest Riot", sans-serif;
+ }
+ .accordion-body{
+  font-family: "Sevillana", cursive;
+ }
+  .shoes img{
+  height: 500px;
+  width: 70px;
+  margin-top: 50px; 
+ }
+ .card img{
+  height: 400px;
+  width: 450px;
+ }
+ .clothes img{
+  height: 500px;
+  width: 70px;
+  margin-top: 50px;
+ }
+ .Bags img{
+  height: 500px;
+  width: 70px;
+  margin-top: 50px;
+ }
+ .footer a{
+  font-family: "Protest Riot", sans-serif;
+  font-size: small;
+ }
+.con p,h6{font-family: "Protest Riot", sans-serif;
+font-size: small;
+}
+.Data p,h2{
+  font-family: "Protest Riot", sans-serif;
+  font-size: small;
+}
+.Blogs p{
+  font-family: "Protest Riot", sans-serif;
+}
+ 
+ 
